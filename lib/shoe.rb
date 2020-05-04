@@ -15,4 +15,7 @@ class Shoe
     @condition = condition
   end
 
+  def condition
+    @condition
+  end
 end
