@@ -8,6 +8,5 @@ class Book
   end
 
   def author=("Agatha Christie")
-    "Agatha Christie"
   end
 end
