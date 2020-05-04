@@ -10,8 +10,4 @@ class Book
   def author
     "Agatha Christie"
   end
-
-  def author
-    @author
-  end
 end
