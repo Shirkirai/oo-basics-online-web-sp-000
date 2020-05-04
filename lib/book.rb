@@ -11,4 +11,7 @@ class Book
     author = "Agatha Christie"
   end
 
+  def author
+    author
+  end
 end
